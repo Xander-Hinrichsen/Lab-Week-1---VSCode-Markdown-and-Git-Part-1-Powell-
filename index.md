@@ -1,7 +1,8 @@
 ## User Page
 
 ### Me
-<image align="left" src="ME.jpg" alt= "" width="150" height="300">
+
+
 
 Hello! I'm **Xander Hinrichsen**, a second-year CS Major at UCSD
 
