@@ -1,7 +1,7 @@
 ## User Page
 
 ### Me
-<image src="ME.jpg" alt= "" width="150" height="300">
+![damn image that would never, ever, work, like holy moly this was so annoying to get to try to work on github pages](ME2.png)
 
 Hello! I'm **Xander Hinrichsen**, a second-year CS Major at UCSD
 
@@ -15,7 +15,6 @@ My personal *interests/skills* include:
 * machine learning `🤖` `💡`
 * autonomous vehicles `🚙` 
 
-\
 
 
 ### Programming experience
